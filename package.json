@@ -1,7 +1,7 @@
 {
   "name": "cycle-counter",
   "version": "1.0.0",
-  "description": "Cycle.js Hello World Application",
+  "description": "Cycle.js Counter Application",
   "main": "src/index.js",
   "scripts": {
     "test": "standard",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CreaturePhil/cycle-hello-world.git"
+    "url": "https://github.com/CreaturePhil/cycle-counter.git"
   },
   "author": "Philip La <birkal@outlook.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CreaturePhil/cycle-hello-world.git/issues"
+    "url": "https://github.com/CreaturePhil/cycle-counter.git/issues"
   },
   "private": true,
   "devDependencies": {
